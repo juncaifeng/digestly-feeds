@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>digestly 订阅源清单</title>
+    <dateCreated>2026-10-20</dateCreated>
+    <ownerName>juncaifeng</ownerName>
+    <docs>自维护的 RSS/Atom 源市场。digestly 挂载本仓库即可浏览订阅。</docs>
+  </head>
+  <body>
+    <!-- AI 与大模型 -->
+    <outline text="AI 与大模型" title="AI 与大模型">
+      <outline type="rss" text="OpenAI Blog" title="OpenAI Blog" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news/"/>
+      <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="https://blog.google/technology/ai/rss/" htmlUrl="https://blog.google/technology/ai/"/>
+      <outline type="rss" text="Google DeepMind" title="Google DeepMind" xmlUrl="https://deepmind.google/blog/rss.xml" htmlUrl="https://deepmind.google/blog/"/>
+    </outline>
+    <!-- 科技媒体 -->
+    <outline text="科技媒体" title="科技媒体">
+      <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com"/>
+      <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com"/>
+      <outline type="rss" text="Wired" title="Wired" xmlUrl="https://www.wired.com/feed/rss" htmlUrl="https://www.wired.com"/>
+    </outline>
+    <!-- 开发者 -->
+    <outline text="开发者" title="开发者">
+      <outline type="rss" text="GitHub Blog" title="GitHub Blog" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog"/>
+      <outline type="rss" text="Go Blog" title="Go Blog" xmlUrl="https://go.dev/blog/feed.atom" htmlUrl="https://go.dev/blog/"/>
+      <outline type="rss" text="Rust Blog" title="Rust Blog" xmlUrl="https://blog.rust-lang.org/feed.xml" htmlUrl="https://blog.rust-lang.org/"/>
+    </outline>
+    <!-- 中文 -->
+    <outline text="中文" title="中文">
+      <outline type="rss" text="少数派" title="少数派" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com"/>
+    </outline>
+    <!-- 社区 -->
+    <outline text="社区" title="社区">
+      <outline type="rss" text="Hacker News 头条" title="Hacker News 头条" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com"/>
+    </outline>
+  </body>
+</opml>

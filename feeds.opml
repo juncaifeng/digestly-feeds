@@ -29,6 +29,12 @@
     <outline text="中文" title="中文">
       <outline type="rss" text="少数派" title="少数派" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com"/>
     </outline>
+    <!-- GitHub 趋势 -->
+    <outline text="GitHub 趋势" title="GitHub 趋势">
+      <outline type="rss" text="GitHub Trending 日榜" title="GitHub Trending 日榜" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml" htmlUrl="https://github.com/trending"/>
+      <outline type="rss" text="GitHub Trending 周榜" title="GitHub Trending 周榜" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/weekly/all.xml" htmlUrl="https://github.com/trending?since=weekly"/>
+      <outline type="rss" text="GitHub Trending 月榜" title="GitHub Trending 月榜" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/monthly/all.xml" htmlUrl="https://github.com/trending?since=monthly"/>
+    </outline>
     <!-- 社区 -->
     <outline text="社区" title="社区">
       <outline type="rss" text="Hacker News 头条" title="Hacker News 头条" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com"/>

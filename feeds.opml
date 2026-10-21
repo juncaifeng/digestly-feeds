@@ -12,6 +12,7 @@
       <outline type="rss" text="OpenAI Blog" title="OpenAI Blog" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news/"/>
       <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="https://blog.google/technology/ai/rss/" htmlUrl="https://blog.google/technology/ai/"/>
       <outline type="rss" text="Google DeepMind" title="Google DeepMind" xmlUrl="https://deepmind.google/blog/rss.xml" htmlUrl="https://deepmind.google/blog/"/>
+      <outline type="rss" text="Agent Skills Releases" title="Agent Skills Releases" xmlUrl="https://github.com/agentskills/agentskills/releases.atom" htmlUrl="https://github.com/agentskills/agentskills/releases"/>
     </outline>
     <!-- 科技媒体 -->
     <outline text="科技媒体" title="科技媒体">
